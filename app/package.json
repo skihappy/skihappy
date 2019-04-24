@@ -1,5 +1,5 @@
 {
-  "name": "skihappy",
+  "name": "@skihappy/app",
   "version": "0.1.0",
   "private": true,
   "scripts": {
