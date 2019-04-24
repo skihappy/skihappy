@@ -26,5 +26,6 @@ module.exports = {
     // eslint-plugin-import
     'no-console': 'off',
     'import/prefer-default-export': 'off',
+    '@typescript-eslint/no-explicit-any': 'off',
   },
 }
