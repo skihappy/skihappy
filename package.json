@@ -1,8 +1,7 @@
 {
   "private": true,
   "workspaces": [
-    "app",
-    "server",
+    "websites",
     "packages/*"
   ],
   "scripts": {
